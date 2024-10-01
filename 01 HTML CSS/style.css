@@ -1,0 +1,95 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+#biodata {
+    background-color: seagreen;
+    width: 500px;
+    height: 50px;
+}
+
+.container {
+    /* background-color:white; */
+
+}
+
+.container-navbar {
+    background-color: seagreen;
+    width: 100%;
+    height: 10vh;
+}
+
+.a-content {
+    width: 720px;
+    height: 480px;
+    background-color: grey;
+
+    color: aliceblue;
+    font-size: 30;
+    border-radius: 80px;
+
+    text-decoration: none;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.ul-navbar {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.li-navbar {
+    /* border: 1px solid white; */
+    list-style-type: none;
+    padding: 20px;
+    color: white;
+    margin: 5px;
+    font-size: 15px;
+}
+
+.li-navbar:hover {
+    background-color: tomato;
+    transition: .1s ease-in-out;
+    transition-delay: .1s;
+    border-radius: 8px;
+}
+
+.container-content {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.img-content {
+    width: 20%;
+}
+
+.container-footer {
+    height: 10vh;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1-footer {
+    background-color: aquamarine;
+    font-size: 50px;
+}
+
+.a-navbar {
+    color: white;
+    text-decoration: none;
+}

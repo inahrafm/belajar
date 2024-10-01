@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Docs</title>
+</head>
+<body>
+    <img src="assets/images/off.gif" alt="" id="lampu1"/>
+    <h1>Saklar Lampu</h1>
+    <button onclick="saklar()">Nyalakan Lampu</button>
+
+    <!-- Script JS START-->
+    <script>
+        function saklar(){
+            console.log('tesing saklar');
+            let lampu1 = document.getElementById("lampu1");
+            console.log(lampu1.src)
+        }
+    </script>
+    <!-- Script JS END -->
+</body>
+</html>
