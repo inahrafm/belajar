@@ -1,19 +1,20 @@
-# Belajar HTML, CSS, dan JavaScript
+# Learning HTML, CSS, and JavaScript
 
-Ini adalah repository saya untuk belajar dasar-dasar HTML, CSS, dan JavaScript. Di sini, saya akan menyimpan berbagai proyek dan contoh kode yang saya gunakan untuk mempelajari dan memahami teknologi ini.
+This is my repository for learning the basics of HTML, CSS, and JavaScript. Here, I will store various projects and code examples that I use to learn and understand these technologies.
 
-## Struktur Repository
+## Repository Structure
 
-- **HTML**: Berisi file dan proyek yang berkaitan dengan struktur halaman web menggunakan HTML.
-- **CSS**: Berisi file dan proyek yang berkaitan dengan styling halaman web menggunakan CSS.
-- **JavaScript**: Berisi file dan proyek yang berkaitan dengan interaktivitas halaman web menggunakan JavaScript.
+- **HTML:** Contains files and projects related to the structure of web pages using HTML.
+- **CSS:** Contains files and projects related to styling web pages using CSS.
+- **JavaScript:** Contains files and projects related to interactivity and functionality using JavaScript.
 
-## Tujuan
+## Features
+- **Basic HTML Projects:** Simple web pages demonstrating HTML elements and structure.
+- **CSS Styling Examples:** Various styles applied to HTML elements to enhance visual presentation.
+- **JavaScript Interactivity:** Scripts that add dynamic behavior to web pages, such as form validation and event handling.
 
-Repository ini dibuat sebagai tempat untuk:
-
-- Mempelajari dasar-dasar pembuatan halaman web menggunakan HTML.
-- Menguasai teknik styling menggunakan CSS.
-- Membuat halaman web lebih interaktif dengan JavaScript.
-
-Saya akan terus memperbarui repository ini seiring dengan perkembangan belajar saya.
+## Installation
+To get started with the projects in this repository:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/learning-html-css-js.git
