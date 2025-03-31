@@ -12,9 +12,3 @@ This is my repository for learning the basics of HTML, CSS, and JavaScript. Here
 - **Basic HTML Projects:** Simple web pages demonstrating HTML elements and structure.
 - **CSS Styling Examples:** Various styles applied to HTML elements to enhance visual presentation.
 - **JavaScript Interactivity:** Scripts that add dynamic behavior to web pages, such as form validation and event handling.
-
-## Installation
-To get started with the projects in this repository:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/learning-html-css-js.git
